@@ -1,0 +1,45 @@
+.containerMain {
+  background-color: #07080c;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: white;
+}
+.image {
+  height: 300px;
+}
+.speedClass {
+  color: white;
+  font-size: 20px;
+}
+.limitClass {
+  color: white;
+}
+.brakesClass {
+  display: flex;
+}
+.accelerate {
+  background-color: #0b69ff;
+  padding: 5px;
+  color: white;
+  border-radius: 3px;
+  border: 0px;
+  font-size: 15px;
+  cursor: pointer;
+  margin: 10px;
+}
+.applyBrake {
+  background-color: #07080c;
+  padding: 5px;
+  color: white;
+  border-radius: 3px;
+  border: 0px;
+  font-size: 15px;
+  cursor: pointer;
+  margin: 10px;
+  border: 1px solid white;
+}
